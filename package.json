@@ -1,0 +1,11 @@
+{
+  "name": "martrix-generator",
+  "version": "1.0.0",
+  "description": "Morning Challenge to generate a matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Edward Kim",
+  "license": "ISC"
+}
